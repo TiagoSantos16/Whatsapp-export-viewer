@@ -1380,7 +1380,7 @@ async function preferences() {
       el(
         "p",
         "muted",
-        "No Chrome do Samsung: abre o menu ⋮ e escolhe “Adicionar ao ecrã principal” ou “Instalar aplicação”.",
+        "No Chrome para Android: abre o menu ⋮ e escolhe “Adicionar ao ecrã principal” ou “Instalar aplicação”.",
       ),
     );
   body.append(

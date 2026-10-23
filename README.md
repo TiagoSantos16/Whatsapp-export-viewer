@@ -1,6 +1,6 @@
 # Chat Archive
 
-[Open Chat Archive](https://tiagosantos16.github.io/Chat-Archive/)
+[Open Chat Archive](https://tiagosantos16.github.io/Whatsapp-export-viewer/)
 
 Keep WhatsApp chat exports on your device and read them offline. Import a TXT or ZIP, choose which participant is you, and return to your conversations without selecting the files again.
 
@@ -18,7 +18,7 @@ The interface is in Portuguese (Portugal). No account, backend, analytics or con
 
 ## Install on Android
 
-Open the site in Chrome, choose **Instalar aplicação**, then use Chrome's install option if prompted. If no prompt appears, use **Install app** or **Add to Home screen** in the browser menu. Import your export from **My Files**, or restore a backup on the phone itself.
+Open the site in Chrome, choose **Instalar aplicação**, then use Chrome's install option if prompted. If no prompt appears, use **Install app** or **Add to Home screen** in the browser menu. Select an export saved on your phone, or restore a backup on the phone itself.
 
 Keep the same site address for updates. Data saved on your computer does not appear on your phone automatically.
 
