@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env*
+*.local
+personal-imports/
+personal-backups/
+tmp/
+*.tmp
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
